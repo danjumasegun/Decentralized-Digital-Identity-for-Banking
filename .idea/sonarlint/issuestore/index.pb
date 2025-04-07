@@ -7,3 +7,5 @@ P
  tests/consent-management.test.ts,7/8/783f8cca98d01d49f59c2931d64e7c41c95061ed
 O
 contracts/fraud-prevention.clar,7/c/7c097febd49116519ae7068eeabed36464890d3b
+T
+$contracts/identity-verification.clar,6/3/63627d2e05688d155fd361be7f5c89242e6c4fdd
