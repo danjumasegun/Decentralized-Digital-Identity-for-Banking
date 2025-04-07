@@ -9,3 +9,5 @@ O
 contracts/fraud-prevention.clar,7/c/7c097febd49116519ae7068eeabed36464890d3b
 T
 $contracts/identity-verification.clar,6/3/63627d2e05688d155fd361be7f5c89242e6c4fdd
+P
+ contracts/kyc-documentation.clar,c/b/cb82cc98223fb2ec13e5e68effe97ad5132e1da5
